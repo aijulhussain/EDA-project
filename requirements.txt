@@ -4,3 +4,4 @@ numpy
 matplotlib
 seaborn
 spicy
+scikit-learn
